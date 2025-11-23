@@ -1,0 +1,11 @@
+torch==2.5.1+cu121
+torchvision==0.18.1+cu121
+torchaudio==2.5.1+cu121
+ultralytics
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+tqdm
